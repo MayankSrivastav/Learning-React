@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import HelloWorld from './HelloWorld';
+import './HelloWorldList.css';
 
 class HelloWorldList extends Component {
     render() {
