@@ -1,13 +1,13 @@
 import React from 'react';
-import Learn from './Learn';
+import HelloWorldList from './HelloWorldList';
 // import './App.css';
 
 const App = () => {  
   return (
     <div className="App">
-      <Learn name="Mayank"/>
-      <Learn name="Maanas"/>
-    </div>);
+      <HelloWorldList/>
+    </div>
+  );
 };
 
 export default App;
